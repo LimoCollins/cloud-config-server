@@ -1,1 +1,1 @@
-# cloud-config-server
+# cloud_config_server
